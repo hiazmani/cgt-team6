@@ -13,5 +13,7 @@ Requirements are listed in the requirements.txt file
 * run_trapped_box_causal.py to run the Trapped Box environment with causal influence
 
 Images are stored in the images/ directory
+  -> If these directories are not created directly by your machine create them manually and update the code to your newly created directory
 
 Results are stored in the results/ directory
+  -> If these directories are not created directly by your machine create them manually and update the code to your newly created directory
